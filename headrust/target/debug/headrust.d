@@ -1,0 +1,1 @@
+C:\Users\pascal\develop\coding\Rust\cmd-Rust\headrust\target\debug\headrust.exe: C:\Users\pascal\develop\coding\Rust\cmd-Rust\headrust\src\lib.rs C:\Users\pascal\develop\coding\Rust\cmd-Rust\headrust\src\main.rs

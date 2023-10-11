@@ -1,0 +1,1 @@
+C:\Users\pascal\develop\coding\Rust\cmd-Rust\wcrust\target\debug\wcrust.exe: C:\Users\pascal\develop\coding\Rust\cmd-Rust\wcrust\src\lib.rs C:\Users\pascal\develop\coding\Rust\cmd-Rust\wcrust\src\main.rs
